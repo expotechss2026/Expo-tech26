@@ -2,7 +2,7 @@
 
 Sistema web simples para organizar os equipamentos de uma residência e acompanhar suas manutenções.
 
-> **Projeto acadêmico.** Este repositório contém a documentação de uma demonstração construída na plataforma [Bubble](https://bubble.io), com apenas as funcionalidades essenciais.
+> **Projeto acadêmico.** Este repositório contém a documentação de uma demonstração construída na plataforma [Bubble]([https://bubble.io](https://bubble.io/page?id=expotechss2026)), com apenas as funcionalidades essenciais.
 
 ---
 
@@ -64,8 +64,7 @@ Uma aplicação web com três telas (login, cadastro e manutenções), em que o 
 3. Salve uma manutenção na tela principal.
 4. Confirme que ela aparece na lista.
 
-**Link do app:** `[inserir link do app no Bubble]`
-
+**Link do app:** `https://bubble.io/page?id=expotechss2026
 ## 📁 Estrutura do repositório
 
 ```
